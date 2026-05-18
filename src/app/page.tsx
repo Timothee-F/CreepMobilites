@@ -96,6 +96,7 @@ export default function Home() {
                             >
                                 {RoutingResult({ route })}
                             </div>
+                        </div>
                         <div style={{ position: "relative", width: "100%", height: "500px" }}>
 
                          <Image
