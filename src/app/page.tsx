@@ -105,11 +105,9 @@ export default function Home() {
                             fill
                             style={{ objectFit: "contain" }}
                         />
-
+                        </div>
                         <div className="line-border" role="separator" />
                     </div>
-
-                    
                 </div>
             </main>
         </>
