@@ -97,15 +97,19 @@ export default function Home() {
                                 {RoutingResult({ route })}
                             </div>
                         </div>
-                        <div style={{ position: "relative", width: "100%", height: "500px" }}>
-
+                        {/*<div style={{ position: "relative", width: "100%", height: "500px" }}>
                          <Image
                             src="/PlanFerroviaire.png"
                             alt="Plan du réseau ferroviaire, présent et projets"
                             fill
                             style={{ objectFit: "contain" }}
                         />
-                        </div>
+                        </div>*/}
+                        <img
+                            src="/CreepMobilites/PlanFerroviaire.png"
+                            alt="Plan du réseau ferroviaire, présent et projets"
+                            style={{ width: "100%", height: "auto" }}
+                            />
                         <div className="line-border" role="separator" />
                     </div>
                 </div>
