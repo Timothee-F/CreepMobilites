@@ -139,7 +139,7 @@ const networkData = {
         }, {
             name: "Pont de l'Union"
         },{
-            name: "Routerailand"
+            name: "Mairie de Routerailand"
         },{
             name: "Routerailand – Porcidrome"
         },{
@@ -391,12 +391,12 @@ const networkData = {
         },
         {
             from: "Porcidrome",
-            to: "Routerailand",
+            to: "Mairie de Routerailand",
             lineID: "5",
             time: 25
         },
         {
-            from: "Routerailand",
+            from: "Mairie de Routerailand",
             to: "Azuria Nord",
             lineID: "5",
             time: 45
