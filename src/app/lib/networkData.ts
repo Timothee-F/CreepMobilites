@@ -129,7 +129,7 @@ const networkData = {
         }, {
             name: "Piscine Léon Marchand"
         },{
-            name: "Place de l'Étoile – Arc de Triomphe"
+            name: "Étoile – Arc de Triomphe"
         },{
             name: "Plutus-les-Lacs"
         },{
@@ -234,7 +234,7 @@ const networkData = {
             time: 20
         },
         {
-            from: "Place de l'Étoile – Arc de Triomphe",
+            from: "Étoile – Arc de Triomphe",
             to: "Promenade Rouge",
             lineID: "1",
             time: 10
