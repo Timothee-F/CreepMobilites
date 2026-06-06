@@ -97,11 +97,11 @@ const networkData = {
         },{
             name: "Ferme à Or"
         }, {
-            name: "Gambetta"
+            name: "Briques"
         },{
             name: "Gare Centrale de Routerailand"
         },{
-            name: "Gare d'Italie – Colisée"
+            name: "Gare Romsimau – Colisée"
         },{
             name: "Gare de l'Ouest – Tour Eiffel"
         },{
@@ -113,7 +113,7 @@ const networkData = {
         },{
             name: "Île Champignon"
         },{
-            name: "Jaurès"
+            name: "Andreu-Motte"
         },{
             name: "Lac du Jardin"
         }, {
@@ -137,7 +137,7 @@ const networkData = {
         },{
             name: "Promenade Rouge"
         }, {
-            name: "Pont Talon"
+            name: "Pont de l'Union"
         },{
             name: "Routerailand"
         },{
@@ -155,14 +155,14 @@ const networkData = {
         },{
             name: "Toutensablé"
         },{
-            name: "Victor Hugo"
+            name: "Globe"
         },,{
             name: "Vieux Pont"
         }
     ],
     connections: [
         {
-            from: "Gare d'Italie – Colisée",
+            from: "Gare Romsimau – Colisée",
             to: "Nation",
             lineID: "A",
             time: 80
@@ -277,12 +277,12 @@ const networkData = {
         },
         {
             from: "Gare de l'Ouest – Tour Eiffel",
-            to: "Pont Talon",
+            to: "Pont de l'Union",
             lineID: "2",
             time: 35
         },
         {
-            from: "Pont Talon",
+            from: "Pont de l'Union",
             to: "Bouleau-sous-Bois",
             lineID: "2",
             time: 20
@@ -325,12 +325,12 @@ const networkData = {
         },
         {
             from: "Toutensablé",
-            to: "Gambetta",
+            to: "Briques",
             lineID: "3",
             time: 20
         },
         {
-            from: "Gambetta",
+            from: "Briques",
             to: "Lac du Jardin",
             lineID: "3",
             time: 15
@@ -349,12 +349,12 @@ const networkData = {
         },
         {
             from: "Gare de l'Ouest – Tour Eiffel",
-            to: "Victor Hugo",
+            to: "Globe",
             lineID: "4",
             time: 15
         },
         {
-            from: "Victor Hugo",
+            from: "Globe",
             to: "Salle des Coffres",
             lineID: "4",
             time: 25
@@ -421,12 +421,12 @@ const networkData = {
         },
         {
             from: "Montparnasse",
-            to: "Jaurès",
+            to: "Andreu-Motte",
             lineID: "5",
             time: 20
         },
         {
-            from: "Jaurès",
+            from: "Andreu-Motte",
             to: "Châtelet – Les Halles",
             lineID: "5",
             time: 15
