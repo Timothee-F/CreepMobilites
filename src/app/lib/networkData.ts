@@ -126,7 +126,7 @@ const networkData = {
             name: "Nation"
         },{
             name: "Paris – Désert"
-        }, {
+        },{
             name: "Piscine Léon Marchand"
         },{
             name: "Étoile – Arc de Triomphe"
@@ -136,7 +136,7 @@ const networkData = {
             name: "Porcidrome"
         },{
             name: "Promenade Rouge"
-        }, {
+        },{
             name: "Pont de l'Union"
         },{
             name: "Mairie de Routerailand"
@@ -146,7 +146,7 @@ const networkData = {
             name: "Saint-Denis Nord"
         },{
             name: "Saint-Jacques"
-        }, {
+        },{
             name: "Saint-Michel – Notre-Dame"
         },{
             name: "Salle des Coffres"
@@ -156,7 +156,7 @@ const networkData = {
             name: "Toutensablé"
         },{
             name: "Globe"
-        },,{
+        },{
             name: "Vieux Pont"
         }
     ],
@@ -229,7 +229,7 @@ const networkData = {
         },
         {
             from: "Châtelet – Les Halles",
-            to: "Place de l'Étoile – Arc de Triomphe",
+            to: "Étoile – Arc de Triomphe",
             lineID: "1",
             time: 20
         },
